@@ -1,0 +1,6 @@
+name: DisplayNameProviderForPowerFulPerms
+version: ${project.version}
+author: Simonsator
+depends: [PartyAndFriends, PowerfulPerms]
+main: de.simonsator.partyandfriends.displaynameprovider.BungeePermsDisplayNameProvider
+description: An add-on for party and friends
