@@ -64,3 +64,5 @@ target/
 
 Party-and-Friends-For-Bungeecord-MySQL.iml
 DisplayNameProviderPowerfulPerms.iml
+/target/
+/.idea/
